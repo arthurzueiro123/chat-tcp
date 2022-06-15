@@ -1,0 +1,23 @@
+metodos:criar,del,msg,login,logout
+
+msg\r\n
+usuario:exemplo\r\n
+senha:exemplo\r\n
+destiny:all\r\n
+msgsz:1291\r\n
+\r\n
+ajakjdkajdkajd....
+
+retono
+
+status:0  (ok)
+status:1  (usuario já existente)
+
+status:2  (usuario não encontrado)
+status:3  (usuario não tem outros usuarios)
+
+status:4  (usuario não foi possivel deletar o usuario)
+status:5 (usuario ou senha não encontrados)
+
+
+
